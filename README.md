@@ -30,11 +30,11 @@ By the end of the course, the students should be able to:
 | Lab Project 2 | Feb 3 | 10h45-12h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
 | Lab Project 3 | Feb 3 | 13h45-15h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
 | Lab Project 4 | Feb 3 | 15h45-17h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
-| Lecture 4 | Feb 4 | 8h45-10h30 | Petit Prince (B612) | DL techniques for NLP | J. Dalmau |
-| Lecture 5 | Feb 4 | 10h45-12h30 | Petit Prince (B612)  | Transformers | J. Dalmau |
+| Lecture 4 | Feb 4 | 8h45-10h30 | Petit Prince (B612) | Transformers I | J. Dalmau |
+| Lecture 5 | Feb 4 | 10h45-12h30 | Petit Prince (B612)  | Transformers II | J. Dalmau |
 | Lab Project 5 | Feb 4 | 13h45-15h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
 | Lab Project 6 | Feb 4 | 15h45-17h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
-| Lecture 6 | Feb 5 | 8h45-10h30 | Petit Prince (B612)  | Transformers | J. Dalmau |
+| Lecture 6 | Feb 5 | 8h45-10h30 | Petit Prince (B612)  | Transformers III | J. Dalmau |
 | Lab Project 7 | Feb 5 | 10h45-12h30 | Petit Prince (B612)  |  | M. Mendil and J. Dalmau |
 | Exam | Feb 6 | 14h00-16h00 | Petit Prince (B612)  | | |
 
