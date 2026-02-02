@@ -39,7 +39,7 @@ By the end of the course, the students should be able to:
 | Exam | Feb 6 | 14h00-16h00 | Petit Prince (B612)  | | |
 
 ## 5. Assessment
-The only assessment for this course will be a written exam which will take place on March 3, 14h00-15h45. The instructors will provide the students with sample exercises so that they can train themselves for the exam. The students will be allowed a single A4 two-sided handwritten sheet of paper with the notes they deem useful for the exam.
+The only assessment for this course will be a written exam which will take place on february 6, 14h00-15h45. The instructors will provide the students with sample exercises so that they can train themselves for the exam. The students will be allowed a single A4 two-sided handwritten sheet of paper with the notes they deem useful for the exam.
 
 Open-answer exercises will be evaluated according to the following criteria (if they apply):
 
